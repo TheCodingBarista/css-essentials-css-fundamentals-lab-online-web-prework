@@ -9,11 +9,11 @@ header {
 }
 
 img {
-  align: center;
+  text-align: center;
 }
 
 a {
   padding-left: 10px;
   padding-right: 10px;
-  background: 
+  background: white;
 }
